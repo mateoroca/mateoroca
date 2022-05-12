@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1637192966 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\src\animal.cpp
+	"animal.h"
+
+1637193191 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\include\animal.h
+	<string>
+	<iostream>
+
+1637199936 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\src\ballena.cpp
+	"ballena.h"
+	<iostream>
+
+1637192928 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\include\ballena.h
+	<mamifero.h>
+	<iostream>
+
+1637118259 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\include\mamifero.h
+	<animal.h>
+	<string>
+
+1637099306 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\src\mamifero.cpp
+	"mamifero.h"
+
+1637198962 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\main.cpp
+	<iostream>
+	"./include/zooprogram.h"
+
+1637121476 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\src\oviparo.cpp
+	"oviparo.h"
+	<iostream>
+
+1637121476 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\include\oviparo.h
+	<iostream>
+	<animal.h>
+
+1637193930 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\include\cocodrilo.h
+	<iostream>
+	<oviparo.h>
+
+1637193928 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\src\cocodrilo.cpp
+	"cocodrilo.h"
+	<iostream>
+
+1637194707 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\src\ganzo.cpp
+	"ganzo.h"
+
+1637193669 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\include\ganzo.h
+	<oviparo.h>
+
+1637193863 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\include\pelicano.h
+	<oviparo.h>
+	<iostream>
+
+1637193886 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\src\pelicano.cpp
+	"pelicano.h"
+	<iostream>
+
+1637193820 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\src\murcielago.cpp
+	"murcielago.h"
+
+1637193818 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\include\murcielago.h
+	<mamifero.h>
+
+1637193756 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\include\lovodemar.h
+	<mamifero.h>
+
+1637193759 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\src\lovodemar.cpp
+	"lovodemar.h"
+
+1637198938 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\include\zooprogram.h
+	<iostream>
+	"../include/animal.h"
+	"../include/ballena.h"
+	"../include/cocodrilo.h"
+	"../include/ganzo.h"
+	"../include/pelicano.h"
+	"../include/murcielago.h"
+	"../include/lovodemar.h"
+
+1637199842 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\nuevo tp final\tpfinalzoo\src\zooprogram.cpp
+	<zooprogram.h>
+
+1637198962 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\main.cpp
+	<iostream>
+	"./include/zooprogram.h"
+
+1637198938 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\include\zooprogram.h
+	<iostream>
+	"../include/animal.h"
+	"../include/ballena.h"
+	"../include/cocodrilo.h"
+	"../include/ganzo.h"
+	"../include/pelicano.h"
+	"../include/murcielago.h"
+	"../include/lovodemar.h"
+
+1637193191 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\include\animal.h
+	<string>
+	<iostream>
+
+1637192928 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\include\ballena.h
+	<mamifero.h>
+	<iostream>
+
+1637118259 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\include\mamifero.h
+	<animal.h>
+	<string>
+
+1637193930 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\include\cocodrilo.h
+	<iostream>
+	<oviparo.h>
+
+1637121476 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\include\oviparo.h
+	<iostream>
+	<animal.h>
+
+1637193669 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\include\ganzo.h
+	<oviparo.h>
+
+1637193863 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\include\pelicano.h
+	<oviparo.h>
+	<iostream>
+
+1637193818 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\include\murcielago.h
+	<mamifero.h>
+
+1637193756 c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\include\lovodemar.h
+	<mamifero.h>
+
+1637192966 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\src\animal.cpp
+	"animal.h"
+
+1637199936 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\src\ballena.cpp
+	"ballena.h"
+	<iostream>
+
+1637199983 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\src\cocodrilo.cpp
+	"cocodrilo.h"
+	<iostream>
+
+1637199991 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\src\ganzo.cpp
+	"ganzo.h"
+
+1637200004 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\src\lovodemar.cpp
+	"lovodemar.h"
+
+1637099306 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\src\mamifero.cpp
+	"mamifero.h"
+
+1637200012 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\src\murcielago.cpp
+	"murcielago.h"
+
+1637121476 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\src\oviparo.cpp
+	"oviparo.h"
+	<iostream>
+
+1637200020 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\src\pelicano.cpp
+	"pelicano.h"
+	<iostream>
+
+1637732182 source:c:\users\mateo\onedrive\documentos\mateo\facultad\ayed\programas poo tp final\tp final\tpfinalzoo\src\zooprogram.cpp
+	<zooprogram.h>
+
