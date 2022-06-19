@@ -19,7 +19,7 @@ void Manager::showEmployeesSales()
 	  	      cout << ListEmployees->List.[i].name << endl
                    << ListEmployees->List.[i].dni  << endl
                    << ListEmployees->List.[i].WorkArea;
-            i++;
+            
            }
 	   }
 }
@@ -33,7 +33,7 @@ void Manager::showEmployeesMarketing()
 	  	    cout << ListEmployees->List.[i].name << endl
                  << ListEmployees->List.[i].dni  << endl
                  << ListEmployees->List.[i].WorkArea;
-            i++;
+            
            }
 	   }
 }
@@ -47,7 +47,7 @@ void Manager::showEmployeesProduction()
 	  	    cout << ListEmployees->List.[i].name << endl
                  << ListEmployees->List.[i].dni  << endl
                  << ListEmployees->List.[i].WorkArea;
-            i++;
+            
            }
 	   }
 }
@@ -59,7 +59,7 @@ void Manager::showAllEmployees()
            cout << ListEmployees->List.[i].name << endl
                 << ListEmployees->List.[i].dni  << endl
                 << ListEmployees->List.[i].WorkArea;
-            i++;
+            
            
 	   }
 }
