@@ -1,4 +1,4 @@
-#include "./include/Employee.hpp"
+#include "../include/Employee.hpp"
 
 
 Employee::Employee(int DNI,string NAME,string WORKAREA)

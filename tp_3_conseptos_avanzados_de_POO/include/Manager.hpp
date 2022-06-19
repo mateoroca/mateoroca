@@ -1,32 +1,25 @@
 
 #ifdef MANAGER_HPP
 #define MANAGER_HPP
-#include "Employees.hpp"
+
+#include "Employee.hpp"
 #include "List.hpp"
-
-
 #include <iostream>
 using namespace std;
 
-class Manager;
-public:
+class Manager 
 {
-    Manager();
-    ~Manager();
-    void newEmployees(Employess*);
-  /*   void saveEmployees(Employess*); */
-    void showListSales(List*);
-    void showListProduction(List*);
-    void showListMarketing(List*);
-    void showEmployees( List*);
-    void start();
-};
-
-
-
-
-
-
+  private:
+     List* ListEmployees;
+  public:
+   
+    void SaveEmployee(Emloyee*);
+    void showEmployeesSales();
+    void showEmployeesMarketing();
+    void showEmployeesProduction();
+    void showAllEmployees();
+    
+}
 
 
 #endif // MANAGER_HPP
