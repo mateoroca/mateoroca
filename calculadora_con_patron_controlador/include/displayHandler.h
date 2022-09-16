@@ -2,17 +2,13 @@
 #define DISPLAYHANDLER
 
 
-class displayHandler
-{
-private:
-    
-public:
-    displayHandler();
-    ~displayHandler();
-    template<typename ALL>
-    void show(ALL);
+template<typename ALL>
+void show(ALL _something)
+    {
+           std::cout << _something;
+    }
 
-};
+
 
 
 

@@ -10,8 +10,9 @@
 int main()
 {
 
-  calculationHandler* CALCULATIONHANDLER = new calculationHandler() ;
+  calculationHandler CALCU;
     
+    CALCU.operateCalculator();
 
       
    

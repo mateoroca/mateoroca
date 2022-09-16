@@ -1,5 +1,5 @@
-#ifndef CALCULATIONHANDLER
-#define CALCULATIONHANDLER
+#ifndef CALCULATIONHANDLER_HPP
+#define CALCULATIONHANDLER_HPP
  #include "calculator.h"
  #include "displayHandler.h"
 
@@ -7,7 +7,7 @@
 class calculationHandler 
 {
    Calculator CALCU;
-   displayHandler SHOW;
+  
 
 public:
    calculationHandler();

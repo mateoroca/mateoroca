@@ -1,10 +1,6 @@
 #include <iostream>
 #include "../include/calculator.h"
 
-
-
-
-
 Calculator::Calculator()
 {
    

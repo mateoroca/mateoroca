@@ -10,6 +10,7 @@ class Calculator
 {
 public:
     Calculator();
+    ~Calculator();
    int suma();
    int resta();
    int multiplicacion();
@@ -18,7 +19,7 @@ public:
    void setn2(int);
    
    
-    ~Calculator();
+   
 
 private:
 
