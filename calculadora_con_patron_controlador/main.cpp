@@ -10,13 +10,13 @@
 int main()
 {
 
-  calculationHandler CALCU;
+  calculationHandler CH;
     
-    CALCU.operateCalculator();
+    CH.operateCalculator();
 
       
    
-  
+    
 
     return 0;
 }
