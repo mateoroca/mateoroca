@@ -1,0 +1,37 @@
+[
+{
+  "directory": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Uno.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\Uno.dir\\src\\Main.cpp.obj -c \"C:\\Users\\mateo\\OneDrive\\Documentos\\mateo\\ANALISTA DE SISTEMAS\\SISTEMAS-2do\\AYEDII\\MESA_DE_TRABAJO\\Drone\\src\\Main.cpp\"",
+  "file": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/src/Main.cpp"
+},
+{
+  "directory": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Principal.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\Principal.dir\\src\\Main.cpp.obj -c \"C:\\Users\\mateo\\OneDrive\\Documentos\\mateo\\ANALISTA DE SISTEMAS\\SISTEMAS-2do\\AYEDII\\MESA_DE_TRABAJO\\Drone\\src\\Main.cpp\"",
+  "file": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/src/Main.cpp"
+},
+{
+  "directory": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/runUnitTests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\runUnitTests.dir\\testUnit\\Test.cpp.obj -c \"C:\\Users\\mateo\\OneDrive\\Documentos\\mateo\\ANALISTA DE SISTEMAS\\SISTEMAS-2do\\AYEDII\\MESA_DE_TRABAJO\\Drone\\testUnit\\Test.cpp\"",
+  "file": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/testUnit/Test.cpp"
+},
+{
+  "directory": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/build/googletest/googlemock",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\mateo\\OneDrive\\Documentos\\mateo\\ANALISTA DE SISTEMAS\\SISTEMAS-2do\\AYEDII\\MESA_DE_TRABAJO\\Drone\\googletest\\googlemock\\src\\gmock-all.cc\"",
+  "file": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/build/googletest/googlemock",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\mateo\\OneDrive\\Documentos\\mateo\\ANALISTA DE SISTEMAS\\SISTEMAS-2do\\AYEDII\\MESA_DE_TRABAJO\\Drone\\googletest\\googlemock\\src\\gmock_main.cc\"",
+  "file": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/build/googletest/googletest",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\mateo\\OneDrive\\Documentos\\mateo\\ANALISTA DE SISTEMAS\\SISTEMAS-2do\\AYEDII\\MESA_DE_TRABAJO\\Drone\\googletest\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/build/googletest/googletest",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\mateo\\OneDrive\\Documentos\\mateo\\ANALISTA DE SISTEMAS\\SISTEMAS-2do\\AYEDII\\MESA_DE_TRABAJO\\Drone\\googletest\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:/Users/mateo/OneDrive/Documentos/mateo/ANALISTA DE SISTEMAS/SISTEMAS-2do/AYEDII/MESA_DE_TRABAJO/Drone/googletest/googletest/src/gtest_main.cc"
+}
+]

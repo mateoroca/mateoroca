@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20221118-1732-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.25.0-rc4"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="Laboba"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22000)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="18563"
+	TotalPhysicalMemory="16131"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1896"
+	>
+	<Testing>
+		<StartDateTime>Nov 18 14:39 Hora est[NON-UTF-8-BYTE-0xE1]ndar de Argentina</StartDateTime>
+		<StartTestTime>1668793150</StartTestTime>
+		<TestList>
+			<Test>./UnitTests</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>UnitTests</Name>
+			<Path>.</Path>
+			<FullName>./UnitTests</FullName>
+			<FullCommandLine>"C:\Users\mateo\OneDrive\Documentos\mateo\ANALISTA DE SISTEMAS\SISTEMAS-2do\AYEDII\MESA_DE_TRABAJO\Drone\build\runUnitTests.exe"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.10516</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>"C:\Users\mateo\OneDrive\Documentos\mateo\ANALISTA DE SISTEMAS\SISTEMAS-2do\AYEDII\MESA_DE_TRABAJO\Drone\build\runUnitTests.exe"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJzFlGFv2jAQhr/7V9xHkJaI0AJdpE7KlnRjo6UiQdNEEHKTI1gLdhY7dPv3swlFZStpNW3jPl18l8v7PkluUnHOeAZrynirDctSrOGdG08lljJeU4UiHnP0S7bB2BdJtUauxEPFu/FGwzDywA8g1Elw7YXxQ2J1U93xJfCHw/g6CL2FHyyiiffW+ziO/VJwjDMhshwVSvU4lWUSZyZbGE12kpDZ5T7mMNkJ7oPpkbViZ3sBsmIKbTKz9jGH97m4o3ldR75h+snGA0hUVlX80nww9LYUW51kBpPpDWxjvj+1Ff2KYrnU1TrGn56oQqsDa9k+NkKMKE+PTdgWmwdQmaAe8L9emIEz5UzFkU7spCjc864LV5TlVYkk+F5gojAF/FbRnKkfIJagVigRNjSvULoEoNDSrTcZqg/IspVqtYmx9HnFkhUw6YLT0QdOzzC58oajwH/CbzOTFE8NpXf2L6AcY7Lz2wxFFojptDghlH7vT6GERvtvTJqQ7Ny+AIkv7vkJoQwu/i4U5/Wgc9bvDboXutBpomOM7/k8uwKh5ehOUELRvE1etmAV0tJKDd+D/X10b0NJuX34IK3/1gvDWn+3vtE+dHVen76CnEkD7w5zce82ro/m/6j5k3oOKSFa0a4hCsIoJD8BcHVXPw==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 18 14:39 Hora est[NON-UTF-8-BYTE-0xE1]ndar de Argentina</EndDateTime>
+		<EndTestTime>1668793150</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
