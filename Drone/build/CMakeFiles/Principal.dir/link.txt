@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Principal.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\Principal.dir/objects.a @CMakeFiles\Principal.dir\objects1
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Principal.dir/objects.a -Wl,--no-whole-archive -o Principal.exe -Wl,--out-implib,libPrincipal.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Principal.dir\linkLibs.rsp
