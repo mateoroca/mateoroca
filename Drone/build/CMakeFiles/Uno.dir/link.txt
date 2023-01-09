@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Uno.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\Uno.dir/objects.a @CMakeFiles\Uno.dir\objects1
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Uno.dir/objects.a -Wl,--no-whole-archive -o Uno.exe -Wl,--out-implib,libUno.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Uno.dir\linkLibs.rsp
